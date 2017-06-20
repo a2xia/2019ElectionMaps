@@ -16,3 +16,5 @@ The purpose of this script is to easily create poll-by-poll Federal Election res
 
 # How to Use
 <p>Download the .py script into the same folder along with the .csv results file and the .shp shape file for your riding. (Please note that as of the current version, the .shp file needs to be filtered first through QGIS or a similar program.) Execute the script in the terminal with command [script name] [csv source name].</p>
+
+<p>In this repository, you can find some sample data to test out the script. The _data folder contains sample poll-by-poll results and shapefile+related data files for my home constituency of New Westminster--Burnaby, British Columbia. The _output folder contains a sample KML output that was generated with this python script using the data in the _data folder.</p>
